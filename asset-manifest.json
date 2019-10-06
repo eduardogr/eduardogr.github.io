@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/eduardogr.github.io/static/js/main.c3d83076.chunk.js",
-    "main.js.map": "/eduardogr.github.io/static/js/main.c3d83076.chunk.js.map",
+    "main.js": "/eduardogr.github.io/static/js/main.9ef4b1c2.chunk.js",
+    "main.js.map": "/eduardogr.github.io/static/js/main.9ef4b1c2.chunk.js.map",
     "runtime-main.js": "/eduardogr.github.io/static/js/runtime-main.d237692e.js",
     "runtime-main.js.map": "/eduardogr.github.io/static/js/runtime-main.d237692e.js.map",
     "static/js/2.c50beab5.chunk.js": "/eduardogr.github.io/static/js/2.c50beab5.chunk.js",
     "static/js/2.c50beab5.chunk.js.map": "/eduardogr.github.io/static/js/2.c50beab5.chunk.js.map",
     "index.html": "/eduardogr.github.io/index.html",
-    "precache-manifest.8f77d1eb3b233ffce24294ed29a4011e.js": "/eduardogr.github.io/precache-manifest.8f77d1eb3b233ffce24294ed29a4011e.js",
+    "precache-manifest.b1d8bb757e62c5ae7fb48bd798f35f90.js": "/eduardogr.github.io/precache-manifest.b1d8bb757e62c5ae7fb48bd798f35f90.js",
     "service-worker.js": "/eduardogr.github.io/service-worker.js",
     "static/media/logo.svg": "/eduardogr.github.io/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d237692e.js",
     "static/js/2.c50beab5.chunk.js",
-    "static/js/main.c3d83076.chunk.js"
+    "static/js/main.9ef4b1c2.chunk.js"
   ]
 }
