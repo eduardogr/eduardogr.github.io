@@ -8,7 +8,8 @@ const stylesheet = {
     },
 
     'appLogo': {
-    height: '40vmin'
+      'height': '40vmin',
+      'pointerEvents': 'none'
     },
 
     'appHeader': {
@@ -23,7 +24,7 @@ const stylesheet = {
     },
 
     'appLink': {
-        'color': '#09d3ac'
+        'color': '#61dafb'
     }
 }
 
